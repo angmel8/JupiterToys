@@ -1,0 +1,12 @@
+{
+  "environment": "UAT",
+  "browser": "chromium",
+  "channel": "chrome",
+  "headless": false,
+  "slowmo": 500,
+  "UAT": [
+    {
+      "URL": "https://jupiter.cloud.planittesting.com"
+    }
+  ]
+}
